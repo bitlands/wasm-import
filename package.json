@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@emurgo/cardano-serialization-lib-browser": "^11.0.0",
+    "nuxt": "3.0.0-rc.8",
+    "vite-plugin-wasm": "^2.1.0"
+  }
+}
