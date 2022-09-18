@@ -7,8 +7,8 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
-    "@emurgo/cardano-serialization-lib-browser": "^11.0.0",
-    "nuxt": "3.0.0-rc.8",
+    "@emurgo/cardano-serialization-lib-browser": "^11.0.5",
+    "nuxt": "3.0.0-rc.10",
     "vite-plugin-wasm": "^2.1.0"
   }
 }
